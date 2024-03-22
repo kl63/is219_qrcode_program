@@ -15,7 +15,7 @@ the target website. You must make your program generate a QR code that takes som
 
 PUT YOUR QR CODE IMAGE:
 
-![QR Code](/qr_codes/QRCode_20240322224823.png)
+![QR Code](/qr_codes/QRCode_20240322231038.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
